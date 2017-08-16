@@ -8,3 +8,9 @@ Hello, world! This hub is where you'll find all of my junk files. I imagine I'll
 # Begun 8/16/17
 
 ====================================================================================
+
+About Me:
+- 26, male, tinkerer.
+- Cyber Security Dude.
+- Learning Python, JSON, C++, XML, reverse engineering, and pen-testing.
+- Always LFG! And looking for projects. Currently building a basic text adventure to practice Python and XML integration, looking at experimenting with bot code I found for Twitter and Instagram. Other than that... blank slate.
